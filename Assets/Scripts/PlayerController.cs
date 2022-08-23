@@ -76,7 +76,7 @@ public class PlayerController : MonoBehaviour
             }
 
                 //Power of player projection 
-                shootpower = Mathf.Abs(safeSpace) * 10f;
+                shootpower = Mathf.Abs(safeSpace) * 16f;
                 Vector3 Dxy = mousePointA.transform.position - transform.position;
                 float difference = Dxy.magnitude;
                 mousePointB.transform.position = transform.position + ((Dxy / difference) * currentdistance * -1);

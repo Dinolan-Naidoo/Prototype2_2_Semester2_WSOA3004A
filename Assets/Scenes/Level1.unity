@@ -828,6 +828,21 @@ PrefabInstance:
       propertyPath: m_RenderMode
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 583641323693203144, guid: d18f7234bb144264ba450b687dcf8469,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -0.020133022
+      objectReference: {fileID: 0}
+    - target: {fileID: 583641323693203144, guid: d18f7234bb144264ba450b687dcf8469,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.11141542
+      objectReference: {fileID: 0}
+    - target: {fileID: 583641323693203144, guid: d18f7234bb144264ba450b687dcf8469,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.68192196
+      objectReference: {fileID: 0}
     - target: {fileID: 583641323693203150, guid: d18f7234bb144264ba450b687dcf8469,
         type: 3}
       propertyPath: m_LocalPosition.x

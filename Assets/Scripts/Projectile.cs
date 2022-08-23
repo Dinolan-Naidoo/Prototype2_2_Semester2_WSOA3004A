@@ -27,7 +27,7 @@ public class Projectile : MonoBehaviour
         project();
 
         //Destroys the projectile after a time period
-        Object.Destroy(gameObject, 15f);
+        Object.Destroy(gameObject, 10f);
     }
 
 
